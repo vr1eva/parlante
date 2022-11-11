@@ -1,6 +1,6 @@
 <template>
   <div>
-    <p>descentralized social network</p>
+    <p>decentralized social network</p>
     <small>powered by Flow</small>
   </div>
 </template>
